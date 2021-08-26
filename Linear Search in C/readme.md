@@ -47,7 +47,7 @@
      3. we will return false if the array is not an array.
      4. we will return false if the array is not an array of integers.
    
-   </summary>
+   </details>
 
  ## Program Explanation
 
