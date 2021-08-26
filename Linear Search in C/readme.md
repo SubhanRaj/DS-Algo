@@ -40,14 +40,16 @@
  5. we will return ```false``` if the element to be searched is not found in the array.
    <details>
 
-   <summary>Cases in which program will return ```false```:</summary>
+   <summary>Cases in which program will return false:</summary>
 
-     1. we will return ```false``` if the array is empty.
-     2. we will return ```false``` if the element to be searched is not an integer.
-     3. we will return ```false``` if the array is not an array.
-     4. we will return ```false``` if the array is not an array of integers.
+     1. we will return false if the array is empty.
+     2. we will return false if the element to be searched is not an integer.
+     3. we will return false if the array is not an array.
+     4. we will return false if the array is not an array of integers.
    
    </summary>
+
+ 
  
 
    
