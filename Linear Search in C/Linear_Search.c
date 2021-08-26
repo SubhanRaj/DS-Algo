@@ -33,7 +33,11 @@ int main()
         }
     }
     if (found == 1)
-        printf("\nElement is present in the array at position %d\n", i + 1);
+    {
+
+        printf("\nElement is present in the array at index %d and\n", i);
+        printf("\nThe position of element in Array is %d\n", i + 1);
+    }
     else
         printf("\nElement is not present in the array\n");
 
