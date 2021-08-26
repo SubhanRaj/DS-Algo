@@ -49,7 +49,15 @@
    
    </summary>
 
- 
+ ## Program Explanation
+
+   1. In Linear search, we search an element or value in a given array by traversing the array from the starting, till the desired element or value is found.
+   2. The array is searched sequentially and the position is returned if the key element to be searched is available in the array, otherwise -1 is returned.
+   3. Here in this C Program we have not made any function specifically for linear search, rather we can look for presence of element in an array in the main function itself.
+   4. We traverse the array from the 0th index in increasing order of index, if we find the element we break the loop there itself and print the position of the element in the array, but if the element requested is not there in array, we simply print that “Element is not present in the array”.
+   5. If we’d have created a separate function for linear search and the element could not be found in the array, we would have returned -1 in that case denoting absence of the element.
+   
+
  
 
    
