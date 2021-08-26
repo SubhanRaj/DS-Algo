@@ -1,7 +1,6 @@
 /*
- * C program to input N numbers and store them in an array.
- * Do a linear search for a given key and report success
- * or failure.
+  C program to input N numbers and store them in an array.
+  Do a linear search for a given key and report success or failure.
  */
 //  By: Priyanshu, Sahil Ali & Subhan Raj
 #include <stdio.h>
