@@ -33,6 +33,22 @@
 
 ## Solution of the problem
 
+ 1. We will take the input array and the element to be searched as input from the user.
+ 2. For finding the position of the element in the array, we will start from the first element of the array and compare it with the element to be searched.
+ 3. We will keep on comparing the element with the element to be searched until we find the element to be searched.
+ 4. We will return the position of the element to be searched.
+ 5. we will return ```false``` if the element to be searched is not found in the array.
+   <details>
+   <summary>Cases in which program will return ```false```:</summary>
+     1. we will return ```false``` if the array is empty.
+     2. we will return ```false``` if the element to be searched is not an integer.
+     3. we will return ```false``` if the array is not an array.
+     4. we will return ```false``` if the array is not an array of integers.
+   </summary>
+ 
+
+   
+
 
 
 
