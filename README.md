@@ -1,3 +1,14 @@
 # Data Structures and Algorithms
 
 - Data Structures &amp; Algorithms using C
+
+I'm hugly thankful to my classmates, who agreed to share their assigments along with the source code, so I'm able to collect all the different types of Data Structures in C along with theri implementation and compalied them in the form of this repo.
+
+## List of Data Structures
+
+<!-- Create a table in Markdown -->
+
+| Data Structure  | Link to Floder |
+| ------------- | ------------- |
+| Linear Search  | [Linear Search](https://github.com/SubhanRaj/DS-Algo/tree/main/Linear%20Search%20in%20C)  |
+| Bubble Sort  | [Bubble Sort](https://github.com/SubhanRaj/DS-Algo/tree/main/Bubble%20Sort) |
