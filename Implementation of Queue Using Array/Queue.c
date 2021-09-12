@@ -4,17 +4,17 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#define MAX 10
-void insert();
-void delete ();
-void display();
-int queue[MAX];
-int rear = -1;
-int front = -1;
+#define MAX 10 //Defines the maximum size of the queue
+void insert(); //Function to insert an element in the queue
+void delete (); //Function to delete an element from the queue
+void display(); //Function to display the queue
+int queue[MAX]; //Array to store the queue
+int rear = -1; //Index of the rear of the queue
+int front = -1; //Index of the front of the queue
 int main()
 {
-    int choice;
-    while (1)
+    int choice; //Variable to store the choice of the user
+    while (1) //Loop to continue the program
     {
         printf("******** Choices ********\n");
         printf("\n Warning: Do Not Enter Any Other Symbols and Alphabets Except Numbers\n\n");
@@ -25,24 +25,24 @@ int main()
         printf("Enter your choice : ");
         scanf("%d", &choice);
 
-        switch (choice)
+        switch (choice) //Switch case to perform the required operation
         {
-        case 1:
+        case 1: //Insert element to queue
             insert();
             printf("\n");
             break;
-        case 2:
+        case 2: //Delete element from queue
             delete ();
             printf("\n");
             break;
-        case 3:
+        case 3: //Display all elements of queue
             display();
             printf("\n");
             break;
-        case 4:
+        case 4: //Quit
             exit(0);
             break;
-        default:
+        default: //Invalid choice
             printf("Wrong choice \n");
             printf("\n");
             break;
