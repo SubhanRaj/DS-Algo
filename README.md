@@ -13,3 +13,4 @@ I'm hugly thankful to my classmates, who agreed to share their assigments along 
 | Linear Search  | [Linear Search](https://github.com/SubhanRaj/DS-Algo/tree/main/Linear%20Search%20in%20C)  |
 | Bubble Sort  | [Bubble Sort](https://github.com/SubhanRaj/DS-Algo/tree/main/Bubble%20Sort) |
 | Queue using Linked List |[Queue using Linked List](https://github.com/SubhanRaj/DS-Algo/tree/main/Queue%20using%20Linked%20List) |
+| Array Queue |[Array Queue](https://github.com/SubhanRaj/DS-Algo/tree/main/Implementation%20of%20Queue%20Using%20Array) |
