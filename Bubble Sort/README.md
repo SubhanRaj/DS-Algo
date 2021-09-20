@@ -1,4 +1,5 @@
 # Implementation of Bubble Sort Data Structure using C Language
+By : [Mohd. Huzaifa](https://www.instagram.com/huzaifa_raxtar/) 
 
 ## Sorting
 
@@ -35,3 +36,16 @@ begin BubbleSort(list)
    
 end BubbleSort
 ```
+
+## Time Complexity of Bubble Sort
+
+1. Worst case time complexity: O(n^2)
+    Worst case occurs when array is reverse sorted.
+ 
+2. Best case time complexity: O(n)
+   Best case occurs when array is already sorted.
+   
+3. Average case time complexity: O(n^2)
+   
+    
+  
