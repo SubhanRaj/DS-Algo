@@ -39,10 +39,10 @@ end BubbleSort
 
 ## Time Complexity of Bubble Sort
 
-1. Worst case time complexity: O(n^2)
+1. Worst case time complexity: O(n^2)<br>
     Worst case occurs when array is reverse sorted.
  
-2. Best case time complexity: O(n)
+2. Best case time complexity: O(n)<br>
    Best case occurs when array is already sorted.
    
 3. Average case time complexity: O(n^2)
