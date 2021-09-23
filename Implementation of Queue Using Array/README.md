@@ -20,12 +20,11 @@ Step 4. Define two integer variables 'front' and 'rear' and initialize both with
 Step 5. Then implement main method by displaying menu of operations list and make suitable function calls to perform operation selected by the user on queue.<br>
 
 ## Algorithm for Queue Implementation Using Array
-
-    * ### Algorithm to insert any element in a queue (Enqueue)
+### Algorithm to insert any element in a queue (Enqueue)
       - Check if the queue is already full by comparing rear to max - 1. if so, then return an overflow error.
       - If the item is to be inserted as the first element in the list, in that case set the value of front and rear  to 0 and insert the element at the rear end.
       - Otherwise keep increasing the value of rear and insert each element one by one having rear as the index.
-    * ### Algorithm to delete any element from a queue (Dequeue)
+### Algorithm to delete any element from a queue (Dequeue)
       - If, the value of front is -1 or value of front is greater than rear , write an underflow message and exit.
       - Otherwise, keep increasing the value of front and return the item stored at the front end of the queue at each time.
 
