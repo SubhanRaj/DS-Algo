@@ -20,46 +20,48 @@ Linked List is a linear data structure just like arrays but unlike arrays, linke
  ### EnQueue(): Inserts an element at the rear of the Queue.
  - Queues maintain two data pointers, front and rear. Therefore, its operations are comparatively difficult to implement than that of stacks.
   The following steps should be taken to enqueue (insert) data into a queue −
- Step 1 − Check if the queue is full.
- Step 2 − If the queue is full, produce overflow error and exit.
- Step 3 − If the queue is not full, increment rear pointer to point the next empty space.
- Step 4 − Add data element to the queue location, where the rear is pointing.
+ 
+ Step 1 − Check if the queue is full.<br>
+ Step 2 − If the queue is full, produce overflow error and exit.<br>
+ Step 3 − If the queue is not full, increment rear pointer to point the next empty space.<br>
+ Step 4 − Add data element to the queue location, where the rear is pointing.<br>
  Step 5 − return success.
+
 
  #### Algorithm for Enqueue operation
 
     procedure enqueue(data)      
    
-   if queue is full
+    if queue is full
       return overflow
-   endif
+    endif
    
-   rear ← rear + 1
-   queue[rear] ← data
-   return true
+    rear ← rear + 1
+    queue[rear] ← data
+    return true
    
 end procedure
 
  ### DeQueue(): Removes an element from the front of the Queue.
  - The following steps are taken to perform dequeue operation −
-Step 1 − Check if the queue is empty.
-Step 2 − If the queue is empty, produce underflow error and exit.
-Step 3 − If the queue is not empty, access the data where front is pointing.
-Step 4 − Increment front pointer to point to the next available data element.
+Step 1 − Check if the queue is empty.<br>
+Step 2 − If the queue is empty, produce underflow error and exit.<br>
+Step 3 − If the queue is not empty, access the data where front is pointing.<br>
+Step 4 − Increment front pointer to point to the next available data element.<br>
 Step 5 − Return success.
  #### Algorithm for Dequeue operation
 
-procedure dequeue
+    procedure dequeue
    
-   if queue is empty
+    if queue is empty
       return underflow
-   end if
+    end if
 
-   data = queue[front]
-   front ← front + 1
-   return true
+    data = queue[front]
+    front ← front + 1
+    return true
 
-end procedure
+    end procedure
 
 
 
