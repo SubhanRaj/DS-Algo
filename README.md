@@ -21,6 +21,9 @@ Data Structure
 |                        |  [Queue Using Linked List](https://github.com/SubhanRaj/DS-Algo/tree/main/Queue%20using%20Linked%20List) |
 | Stack                  |  [Stack Using Array](https://github.com/SubhanRaj/DS-Algo/tree/main/Stack%20using%20Array) |
 |                        |  [Stack Using Linked List](https://github.com/SubhanRaj/DS-Algo/tree/main/Stack%20using%20Linked%20List) |
+| 2D Array or Matrix     |  [Addition of 2D Array](https://github.com/SubhanRaj/DS-Algo/tree/main/Addition%20of%202D%20Array) |
+|                        |  [Multiplication of 2D Array](https://github.com/SubhanRaj/DS-Algo/tree/main/Multiplication%20of%202D%20Array) |
+|                        |  [Transpose of 2D Array](https://github.com/SubhanRaj/DS-Algo/tree/main/Transpose%20of%202D%20Array)|
 
 
 
