@@ -11,8 +11,8 @@ By : [Mohd. Huzaifa](https://www.instagram.com/huzaifa_raxtar/)
   
 ## How Bubble Sort Works
 
-    - We take an unsorted array for our example. Bubble sort takes Ο(n2) time so we're keeping it short and precise.
-    - Bubble sort starts with very first two elements, comparing them to check which one is greater.
+  - We take an unsorted array for our example. Bubble sort takes Ο(n2) time so we're keeping it short and precise.
+   - Bubble sort starts with very first two elements, comparing them to check which one is greater.
   
 
    
